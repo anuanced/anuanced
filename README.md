@@ -32,36 +32,31 @@ A B.Tech Electronics and Computer engineering student  looking to contribute and
 
 **Technologies:** TypeScript, JavaScript, Web Scraping
 
----
-
 ### 🚦 NeoCruze – Lane & Pothole Detection System
 
 **Technologies:** Python, OpenCV, YOLOv8, Roboflow
-
----
 
 ### 🎫 CSI Hackathon – Service Ticket Management System
 
 **Technologies:** HTML, CSS, JavaScript, Backend APIs
 
----
-
 ### 🖐️ ISHARA – ASL Learning Website
 
 **Technologies:** JavaScript, HTML, CSS
-
----
 
 ### 🥔 Potato Leaf Disease Detection
 
 **Technologies:** Python, TensorFlow, Keras, Machine Learning
 
----
-
 ### 🗣️ Speech Emotion Recognition
 
 **Technologies:** Python, Machine Learning, Signal Processing
 
+### 📊 Student Grade Prediction
+
+**Technologies:** Python, Machine Learning, Data Preprocessing, Scikit-learn
+
+---
 
 ## 📫 Connect with Me
 
