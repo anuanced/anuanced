@@ -58,9 +58,9 @@ A B.Tech Electronics and Computer engineering student  looking to contribute and
 
 ---
 
-### 🚦 Real-Time Lane and Pothole Detection
+### 🗣️ Speech Emotion Recognition
 
-**Technologies:** Python, OpenCV, YOLOv8, Roboflow
+**Technologies:** Python, Machine Learning, Signal Processing
 
 
 ## 📫 Connect with Me
